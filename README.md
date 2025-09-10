@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Trần Gia Bảo, from 🇻🇳 with love!</h1>
+<h1 align="center">Hi 👋, I'm Trần Gia Bảo, from <img src="https://flagcdn.com/w20/vn.png" width="25"/> with love!</h1>
+
 <h3 align="center">Passionate about <strong>Cyber Security</strong>, <strong>Cloud Computing</strong>, and <strong>Blockchain Technology</strong>. Currently pursuing my degree with a focus on building secure digital solutions and exploring cutting-edge technologies.</h3>
 
 ## About Me

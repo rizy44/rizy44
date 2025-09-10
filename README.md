@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋! My name is Trần Gia Bảo, I'm a student major in CyberSecurity, Cloud, Blockchain from 🇻🇳
+
 
 <!--
 **rizy44/rizy44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

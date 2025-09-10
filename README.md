@@ -45,6 +45,8 @@
 ## Connect with me
 <p align="left">
 <a href="mailto:tommytran1312@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/> </a>
+<a href="https://www.facebook.com/TranTommyGiabao16/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/> </a>
+<a href="https://www.instagram.com/rio_shy_zin/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/> </a>
 </p>
 
 ## 📊 GitHub Stats

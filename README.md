@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Trần Gia Bảo, from <img src="https://flagcdn.com/w20/vn.png" width="25"/> with love!</h1>
+<h1 align="center">
+  Hi 👋, I'm Trần Gia Bảo, from <img src="https://media.istockphoto.com/id/464516754/vi/vec-to/qu%E1%BB%91c-k%E1%BB%B3-vi%E1%BB%87t-nam.jpg?s=612x612&w=0&k=20&c=20_fpqn2SzR-BYCcTgc77EuiudsNnh1c0mVXVJzSNbk=" width="28"/> with love!
+</h1>
+
 
 <h3 align="center">Passionate about <strong>Cyber Security</strong>, <strong>Cloud Computing</strong>, and <strong>Blockchain Technology</strong>. Currently pursuing my degree with a focus on building secure digital solutions and exploring cutting-edge technologies.</h3>
 

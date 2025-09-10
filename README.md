@@ -7,6 +7,19 @@
 - 👯 Open to collaborate on **Cloud Security / DevSecOps projects**
 - 📫 Reach me at **tommytran1312@gmail.com**
 - ⚡ Fun fact: I'm talkative, but when it comes to security, I like being precise 😄
+## 🎓 Education
+- **University of Information Technology – VNUHCM (UIT)**
+  - Bachelor’s Degree in Information Security (Expected 2026)
+  - Focus: Cyber Security, Cloud Computing, Blockchain
+## 🎯 Career Goals / Interests
+I'm passionate about building a career in **Cloud Security Engineering** and **DevSecOps**. My goal is to become a specialist who bridges the gap between development, operations, and security in cloud-native environments. I'm particularly interested in:
+- Implementing zero-trust security architectures in cloud platforms
+- Developing automated security compliance and monitoring solutions
+- Exploring blockchain security and smart contract auditing
+- Contributing to open-source security tools and frameworks
+Long-term, I aim to become a **Cloud Security Architect** or **Security Researcher**, helping organizations build resilient and secure digital infrastructures.
+## 📂 Highlighted Projects
+
 <h3 align="left">Languages and Tools:</h3>
 
 ### 💻 Programming Languages

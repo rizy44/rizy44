@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">Passionate about <strong>Cyber Security</strong>, <strong>Cloud Computing</strong>, and <strong>Blockchain Technology</strong>. Currently pursuing my degree with a focus on building secure digital solutions and exploring cutting-edge technologies.</h3>
+<h3 align="center">Passionate about <strong>Cyber Security</strong> and <strong>Cloud Computing</strong>. Currently pursuing my degree with a focus on building secure digital solutions and exploring cutting-edge technologies.</h3>
 
 ## About Me
 - 🌱 Currently learning **DevSecOps & Cloud Computing**
